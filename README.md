@@ -15,7 +15,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://aditya-sarawat.vercel.app/api/spotify)](https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw)
+[![Spotify](https://novatorem.aditya-sarawat.vercel.app
+/api/spotify)](https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw)
 
 ---
 
