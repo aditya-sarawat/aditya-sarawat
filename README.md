@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sarawataditya" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/sarawataditya" alt="sarawataditya"/></a>
-<a href="https://linkedin.com/in/aditya-sarawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya-sarawat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-sarawat" target="blank"><img align="center" src="https://img.shields.io/instagram/aditya-sarawat" alt="aditya-sarawat"/></a>
 <a href="https://fb.com/id=100010753507632" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="id=100010753507632" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya_sarawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aditya_sarawat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aditya_sarawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aditya_sarawat" height="30" width="40" /></a>
