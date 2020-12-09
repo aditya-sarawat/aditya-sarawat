@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Sarawat<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Sarawat
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -15,11 +15,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw)
+[![Spotify](https://aditya-sarawat.vercel.app/api/spotify)](https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw)
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
@@ -66,10 +64,6 @@
 </div
 
 <br/>
-
----
-
-### ⭐️ From [aditya-sarawat](https://github.com/aditya-sarawat) ###
 
 ---
 
