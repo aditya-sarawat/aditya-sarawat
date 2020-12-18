@@ -24,6 +24,8 @@
 [<img align="left" alt="https://aditya-sarawat.github.io/website" height="30px" src="https://img.icons8.com/doodle/48/000000/chrome.png"/>][website]
 [<img align="left" alt="Aditya Sarawat | LinkedIn" height="30px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/>][linkedin]
 [<img align="left" alt="Aditya Sarawat | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="Aditya Sarawat | Twitter" height="30px" src="https://img.icons8.com/doodle/48/000000/twitter-circled.png"/>][Twitter]
+[<img align="left" alt="Aditya Sarawat | Facebook" height="30px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png" />][Facebook]
 [<img align="left" alt="Aditya Sarawat | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
@@ -32,6 +34,7 @@
 
 ### Languages and Tools 🛠 
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -43,8 +46,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <br/>
 
@@ -69,3 +74,5 @@
 [instagram]: https://www.instagram.com/aditya_sarawat/
 [linkedin]: https://www.linkedin.com/in/aditya-sarawat/
 [Spotify]: https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw
+[Twitter]: https://twitter.com/SarawatAditya
+[Facebook]: https://www.facebook.com/profile.php?id=100010753507632
