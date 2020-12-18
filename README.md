@@ -21,8 +21,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="https://aditya-sarawat.github.io/website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="Aditya Sarawat | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="https://aditya-sarawat.github.io/website" height="30px" src="https://img.icons8.com/doodle/48/000000/chrome.png"/>][website]
+[<img align="left" alt="Aditya Sarawat | LinkedIn" height="30px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/>][linkedin]
 [<img align="left" alt="Aditya Sarawat | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="Aditya Sarawat | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
