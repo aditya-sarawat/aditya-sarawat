@@ -59,7 +59,12 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-    [![Aditya-sarawat_Github_Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/aditya-sarawat/github-readme-stats)   
+    <a href="https://github.com/aditya-sarawat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/aditya-sarawat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-sarawat&show_icons=true&theme=dark&line_height=27" />
+</a>   
   </div>
 
 <br/>
