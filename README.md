@@ -25,7 +25,6 @@
 [<img align="left" alt="Aditya Sarawat | LinkedIn" height="30px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/>][linkedin]
 [<img align="left" alt="Aditya Sarawat | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="Aditya Sarawat | Twitter" height="30px" src="https://img.icons8.com/doodle/48/000000/twitter-circled.png"/>][Twitter]
-[<img align="left" alt="Aditya Sarawat | Facebook" height="30px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png" />][Facebook]
 [<img align="left" alt="Aditya Sarawat | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
@@ -81,4 +80,3 @@
 [linkedin]: https://www.linkedin.com/in/aditya-sarawat/
 [Spotify]: https://open.spotify.com/user/317a4xqi4cihmvwh2c4snsrn5axm?si=t9A1F6rkSAiKKQchPZ_lGw
 [Twitter]: https://twitter.com/SarawatAditya
-[Facebook]: https://www.facebook.com/profile.php?id=100010753507632
