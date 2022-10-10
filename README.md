@@ -1,7 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Sarawat
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Electrical and Communication Engineering Student 
 
 - 👨‍💻 I’m currently working on C++, Python, JavaScript and Java
@@ -23,7 +21,7 @@
 
 [<img align="left" alt="https://aditya-sarawat.github.io/website" height="30px" src="https://img.icons8.com/doodle/48/000000/chrome.png"/>][website]
 [<img align="left" alt="Aditya Sarawat | LinkedIn" height="30px" src="https://img.icons8.com/doodle/48/000000/linkedin-circled.png"/>][linkedin]
-[<img align="left" alt="Aditya Sarawat | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="Aditya Sarawat | Instagram" height="30px" src="https://img.icons8.com/cotton/344/instagram-new.png" />][instagram]
 [<img align="left" alt="Aditya Sarawat | Twitter" height="30px" src="https://img.icons8.com/doodle/48/000000/twitter-circled.png"/>][Twitter]
 
 <br />
@@ -57,9 +55,6 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
-    <a href="https://github.com/aditya-sarawat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=dark&hide_langs_below=1" />
-</a>
 <a href="https://github.com/aditya-sarawat">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-sarawat&show_icons=true&theme=dark&line_height=27" />
 </a>   
