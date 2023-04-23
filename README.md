@@ -28,7 +28,7 @@
 <h2> Random Quote ✍️ </h2>
 <div align="center"> 
   <a href="https://github.com/aditya-sarawat">
-    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" style="width:100%;" />
   </a>   
 </div>
 
