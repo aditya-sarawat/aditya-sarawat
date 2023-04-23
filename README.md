@@ -10,25 +10,22 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_sarawat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-sarawat) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adityasarawat) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aditya-Sarawat) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/aditya-sarawat) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/aditya-sarawat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SarawatAditya) 
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
+  <h2> Github Statistics 📈 </h2>
+  <div > 
     <a href="https://github.com/aditya-sarawat">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
     </a>   
-  </div><br>
-  <div align="center"> 
-    <a href="https://github.com/aditya-sarawat">
+  <a href="https://github.com/aditya-sarawat">
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </a>   
-  </div><br/>
+    </a>
+  </div><br>
 
 <!-- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-sarawat&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<h2 align="center"> Random Quote ✍️ </h2>
+<h2> Random Quote ✍️ </h2>
 <div align="center"> 
   <a href="https://github.com/aditya-sarawat">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
