@@ -24,14 +24,13 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </a>   
   </div><br/>
----
 
 <!-- ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-sarawat&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Random Quote ✍️ </h2>
 <div align="center"> 
   <a href="https://github.com/aditya-sarawat">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
@@ -40,8 +39,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aditya-sarawat&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <div align='center'>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=aditya-sarawat&icon=0&color=12)](https://visitcount.itsvg.in" /><br>
   Show some ❤️ by starring some of the repositories! 
 </div>
