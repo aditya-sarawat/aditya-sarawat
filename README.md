@@ -30,6 +30,6 @@
 
 ---
 <div align='center'>
-  <img align="center" src="https://visitcount.itsvg.in/api?id=aditya-sarawat&icon=0&color=12" /><br>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=aditya-sarawat&icon=0&color=12" /><br><br>
   Show some ❤️ by starring some of the repositories! 
 </div>
