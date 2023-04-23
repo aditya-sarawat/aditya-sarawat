@@ -32,7 +32,8 @@
   </a>   
 </div>
 
+---
 <div align='center'>
-  <img align="center" src="https://visitcount.itsvg.in/api?id=aditya-sarawat&icon=0&color=12)](https://visitcount.itsvg.in" /><br>
+  <img align="center" src="https://visitcount.itsvg.in/api?id=aditya-sarawat&icon=0&color=12)](https://visitcount.itsvg.in)" /><br>
   Show some ❤️ by starring some of the repositories! 
 </div>
