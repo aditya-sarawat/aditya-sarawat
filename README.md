@@ -12,12 +12,12 @@
 
   <h2> Github Statistics 📈 </h2>
 <div style="display:flex; justify-content:center;">
-  <div style="margin: 0 10px;">
+  <div>
     <a href="https://github.com/aditya-sarawat">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
     </a>   
   </div>
-  <div style="margin: 0 10px;">
+  <div>
     <a href="https://github.com/aditya-sarawat">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sarawat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </a>
